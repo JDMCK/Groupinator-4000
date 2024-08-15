@@ -1,0 +1,108 @@
+Week 1: 
+
+Eileen, Richard
+Arthur, Graham
+Cara, Steve
+Joel, Lauryn
+Luke, Mike
+Jesse, John
+
+Week 2: 
+
+Graham, Richard
+Arthur, Eileen
+Lauryn, Steve
+Joel, Cara
+John, Mike
+Jesse, Luke
+
+Week 3: 
+
+Graham, Eileen
+Arthur, Richard
+Lauryn, Cara
+Joel, Steve
+John, Luke
+Jesse, Mike
+
+Week 4: 
+
+Steve, Richard
+Cara, Eileen
+Mike, Graham
+Luke, Arthur
+John, Lauryn
+Jesse, Joel
+
+Week 5: 
+
+Steve, Eileen
+Cara, Richard
+Mike, Arthur
+Luke, Graham
+John, Joel
+Jesse, Lauryn
+
+Week 6: 
+
+Steve, Graham
+Cara, Arthur
+Mike, Lauryn
+Luke, Joel
+John, Richard
+Jesse, Eileen
+
+Week 7: 
+
+Steve, Arthur
+Cara, Graham
+Mike, Joel
+Luke, Lauryn
+John, Eileen
+Jesse, Richard
+
+Week 8: 
+
+Lauryn, Richard
+Joel, Eileen
+Mike, Steve
+Luke, Cara
+John, Graham
+Jesse, Arthur
+
+Week 9: 
+
+Lauryn, Eileen
+Joel, Richard
+Mike, Cara
+Luke, Steve
+John, Arthur
+Jesse, Graham
+
+Week 10: 
+
+Lauryn, Graham
+Joel, Arthur
+Mike, Richard
+Luke, Eileen
+John, Steve
+Jesse, Cara
+
+Week 11: 
+
+Lauryn, Arthur
+Joel, Graham
+Mike, Eileen
+Luke, Richard
+John, Cara
+Jesse, Steve
+
+Week 12: 
+
+Eileen, Richard
+Arthur, Graham
+Cara, Steve
+Joel, Lauryn
+Luke, Mike
+Jesse, John
+
